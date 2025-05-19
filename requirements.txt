@@ -1,0 +1,9 @@
+Flask>=2.0
+Flask-Login>=0.6
+Flask-JWT-Extended>=4.4
+Flask-SQLAlchemy>=3.0
+psycopg2-binary>=2.9
+Flask-Migrate>=4.0
+python-dotenv>=1.0
+qrcode>=7.3
+Pillow>=9.0
